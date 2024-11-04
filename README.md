@@ -47,4 +47,4 @@
 </p>
 
 ## Coding Time
-[![wakatime](https://wakatime.com/badge/user/dikdns.svg)](https://wakatime.com/@dikdns)
+[![wakatime](https://wakatime.com/@Firdan16)]
