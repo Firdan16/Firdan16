@@ -47,4 +47,4 @@
 </p>
 
 ## Coding Time
-[![wakatime](https://wakatime.com/@Firdan16)]
+(https://wakatime.com/@Firdan16)
